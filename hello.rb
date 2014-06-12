@@ -1,8 +1,10 @@
-puts "hello".capitalize
+puts "helloooooooo".capitalize
 
-
-
-5000.times{
-
+999999999999.times{
   puts "hello".capitalize
 }
+
+
+def big_egg_egg
+  pust "123"
+end
