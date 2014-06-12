@@ -1,6 +1,5 @@
 puts "hello".capitalize
 
-100.times{
+1000.times{
   puts "hello".capitalize
 }
-
