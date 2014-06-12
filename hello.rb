@@ -1,1 +1,3 @@
-puts "hello"
+100.times{
+  puts "hello"
+}
